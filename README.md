@@ -5,6 +5,9 @@ Script to clean steam account data from Windows:
 2. Delete 'ssfn' files, 'appcache' and 'userdata' directories from `C:\Program Files (x86)\Steam\`
 3. Delete Steam directory and files from `C:\Users\%username%\AppData\Local\Steam\`
 
+
+<img src="https://i.imgur.com/BCeQsFM.gif" width="700" height="400"/>
+
 # Setup:
 ```
 $ pip install -r requirements.txt
